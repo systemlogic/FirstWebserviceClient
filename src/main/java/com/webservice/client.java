@@ -15,6 +15,7 @@ public class client {
 		int b = 15;
 		int sum = hello.sum(a, b);
 		System.out.println("Sum of a + b = " + sum);
+		System.out.println("Message recieved from server is : " + str  );
 	}
 
 }

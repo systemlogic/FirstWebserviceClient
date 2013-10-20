@@ -1,7 +1,6 @@
 package com.webservice;
 
 import localhost.FirstWebservice.Hello_jws.Hello;
-import localhost.FirstWebservice.Hello_jws.HelloService;
 import localhost.FirstWebservice.Hello_jws.HelloServiceLocator;
 
 public class client {
